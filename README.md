@@ -8,4 +8,3 @@
 - 📫 How to reach me: @dtomvan, @dtomvan#8116
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: `todo!()`
-- Currently coding rust for [@bridge-scrims](https://github.com/bridge-scrims)
