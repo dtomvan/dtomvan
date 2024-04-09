@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on my configs 🙃
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: @dtomvan, @dtomvan#8116 (or email)
+- 📫 How to reach me: @dtomvan(@octodon.social)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: `todo!()`
